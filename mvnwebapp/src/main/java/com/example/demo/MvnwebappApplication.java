@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MvnwebappApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Spring Boot Sample Project");
+		System.out.println("Welcome to Springboot Application");
 		SpringApplication.run(MvnwebappApplication.class, args);
 	}
 
